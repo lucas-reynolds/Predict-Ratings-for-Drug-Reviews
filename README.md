@@ -1,1 +1,1 @@
-# Predicting Ratings from Drug Reviews
+# Predicting Ratings for Drug Reviews
