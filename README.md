@@ -1,4 +1,4 @@
-# Predicting Ratings for Drug Reviews
+# Predict Ratings for Drug Reviews
 
 ## Table of Contents
 [Overview](##Overview)  
