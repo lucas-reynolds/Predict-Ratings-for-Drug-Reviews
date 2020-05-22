@@ -7,6 +7,7 @@
 [Machine Learning](##Machine%20Learning)  
 
 ## Overview
+- Created a model to predict whether a drug review would result in a good or bad rating score.
 
 ## Data Wrangling
 
