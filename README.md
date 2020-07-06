@@ -1,5 +1,5 @@
 # Predicting Drug Review Ratings from Review Text
-
+![](drugsCom_modelsROC.png)
 ## Table of Contents
 1. [Project Ideas](1_ProjectIdeas)
 2. [Project_Proposal](2_ProjectProposal)
