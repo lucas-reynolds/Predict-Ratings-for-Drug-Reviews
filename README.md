@@ -3,11 +3,11 @@
 ## Table of Contents
 [Project Ideas](##1_ProjectIdeas)  
 [Project Proposal](##2_ProjectProposal)
-Data Wrangling
+/nData Wrangling/n
 [Data Wrangling Code](##3_DataWrangling_Code)  
-Data Storytelling
+/nData Storytelling/n
 [Data Storytelling Code](##4_DataStorytelling_Code))
-Machine Learning
+/nMachine Learning/n
 [Machine Learning Code](##7_MachineLearning_Code)  
 
 ## Overview
