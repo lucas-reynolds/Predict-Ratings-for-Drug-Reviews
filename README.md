@@ -12,9 +12,15 @@
 5. Statistical Analysis   
    5.1. [Code](5_StatisticalAnalysis_Code)<br>
    5.2. [Report](5_StatisticalAnalysis_Report)
-6. Milestone Report
-   6.1. [Report](6_Milestone_Report)
+6. Milestone Report<br>
+   6.1. [Report](6_Milestone_Report)<br>
    6.2. [Presentation](6_Milestone_Presentation)
+7. Machine Learning<br>
+   7.1. [Code](7_MachineLearning_Code)<br>
+   7.2. [Report](7_MachineLearning_Report)
+8. Final Report<br>
+   8.1. [Report](8_Final_Report)<br>
+   8.2. [Presentation](8_Final_Presentation)
 
 ## Project Overview
 Created a model that predicts whether a drug review will have a good rating solely from the review text.
