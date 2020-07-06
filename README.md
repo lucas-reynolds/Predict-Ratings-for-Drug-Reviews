@@ -1,4 +1,6 @@
 # Predicting Drug Review Ratings from Review Text
 
-## Project ObjectiveOverview
-Create a model that predicts whether a drug review has a good rating based only on the review text
+## Project Overview
+Created a model that predicts whether a drug review will have a good rating solely from the review text.
+
+## Problem Statement
