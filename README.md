@@ -1,9 +1,13 @@
 # Predict Ratings for Drug Reviews
 
 ## Table of Contents
-[Overview](##Overview)  
-[Data Wrangling](##Data%20Wrangling)  
-[Exploratory Data Analysis](##Exploratory%20Data%20Analysis)  
+[Project Ideas](##1_ProjectIdeas)  
+[Project Proposal] (##2_ProjectProposal)
+Data Wrangling
+[Data Wrangling Code](##3_DataWrangling_Code)  
+Data Storytelling
+[Data Storytelling Code](##4_DataStorytelling_Code))
+
 [Machine Learning](##Model%20Building)  
 
 ## Overview
