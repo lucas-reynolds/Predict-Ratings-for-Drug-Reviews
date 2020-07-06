@@ -2,13 +2,13 @@
 
 ## Table of Contents
 [Project Ideas](##1_ProjectIdeas)  
-[Project Proposal] (##2_ProjectProposal)
+[Project Proposal](##2_ProjectProposal)
 Data Wrangling
 [Data Wrangling Code](##3_DataWrangling_Code)  
 Data Storytelling
 [Data Storytelling Code](##4_DataStorytelling_Code))
-
-[Machine Learning](##Model%20Building)  
+Machine Learning
+[Machine Learning Code](##7_MachineLearning_Code)  
 
 ## Overview
 - Created a model to predict whether a drug review would result in a good or bad rating score.
