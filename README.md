@@ -3,7 +3,7 @@
 ## Table of Contents
 1. [Project Ideas](1_ProjectIdeas)
 2. [Project_Proposal](2_ProjectProposal)
-3. [Data WranglingCode](3_DataWrangling_Code)<br>
+3. [Data Wrangling Code](3_DataWrangling_Code)<br>
       3.1. [Report](3_DataWrangling_Report)
 4. [Data Storytelling Code](4_DataStorytelling_Code)<br>
       4.1. [Report](4_DataStorytelling_Report)
