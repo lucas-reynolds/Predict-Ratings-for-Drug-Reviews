@@ -7,13 +7,13 @@
 2. Data Storytelling<br>
       2.1 [Code](4_DataStorytelling_Code)<br>
       2.2 [Report](4_DataStorytelling_Report)
-3. Statistical Analysis
+3. Statistical Analysis<br>
       3.1 [Code](5_StatisticalAnalysis_Code)<br>
       3.2 [Report](5_StatisticalAnalysis_Report)
-4. Machine Learning 
+4. Machine Learning <br>
       4.1 [Code](7_MachineLearning_Code)<br>
       4.2 [Report](7_MachineLearning_Report)
-5. Final Report and Presentation
+5. Final Report and Presentation<br>
       6.1 [Final Report](8_Final_Report)<br>
       6.2 [Presentation](8_Final_Presentation)
 
