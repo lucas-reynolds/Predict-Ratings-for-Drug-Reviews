@@ -4,9 +4,10 @@
 1. Data Wrangling<br>
       1.1 [Code](3_DataWrangling_Code)<br>
       1.2 [Report](3_DataWrangling_Report)
-3. [Data Wrangling Code](3_DataWrangling_Code)<br>
-      3.1. [Report](3_DataWrangling_Report)
-4. [Data Storytelling Code](4_DataStorytelling_Code)<br>
+2. Data Storytelling<br>
+      2.1. [Code](4_DataStorytelling_Code)<br>
+      2.2. [Report](4_DataStorytelling_Report)
+4. [Data Storytelling Code]()<br>
       4.1. [Report](4_DataStorytelling_Report)
 5. [Statistical Analysis Code](5_StatisticalAnalysis_Code)<br>
       5.1. [Report](5_StatisticalAnalysis_Report)
