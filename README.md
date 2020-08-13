@@ -3,7 +3,7 @@
 ## Table of Contents
 1. Data Wrangling<br>
       1.1 [Code](https://github.com/lucas-reynolds/Predicting-Drug-Review-Ratings-from-Review-Text/blob/master/3_DataWrangling_Code.ipynb)<br>
-      1.2 [Report](3_DataWrangling_Report)
+      1.2 [Report](https://github.com/lucas-reynolds/Predicting-Drug-Review-Ratings-from-Review-Text/blob/master/3_DataWrangling_Report.pdf)
 2. Data Storytelling<br>
       2.1 [Code](4_DataStorytelling_Code)<br>
       2.2 [Report](4_DataStorytelling_Report)
