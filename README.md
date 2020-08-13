@@ -5,18 +5,17 @@
       1.1 [Code](3_DataWrangling_Code)<br>
       1.2 [Report](3_DataWrangling_Report)
 2. Data Storytelling<br>
-      2.1. [Code](4_DataStorytelling_Code)<br>
-      2.2. [Report](4_DataStorytelling_Report)
-4. [Data Storytelling Code]()<br>
-      4.1. [Report](4_DataStorytelling_Report)
-5. [Statistical Analysis Code](5_StatisticalAnalysis_Code)<br>
-      5.1. [Report](5_StatisticalAnalysis_Report)
-6. [Milestone Report](6_Milestone_Report)<br>
-      6.1. [Presentation](6_Milestone_Presentation)
-7. [Machine Learning Code](7_MachineLearning_Code)<br>
-      7.1. [Report](7_MachineLearning_Report)
-8. [Final Report](8_Final_Report)<br>
-      8.1. [Presentation](8_Final_Presentation)
+      2.1 [Code](4_DataStorytelling_Code)<br>
+      2.2 [Report](4_DataStorytelling_Report)
+3. Statistical Analysis
+      3.1 [Code](5_StatisticalAnalysis_Code)<br>
+      3.2 [Report](5_StatisticalAnalysis_Report)
+4. Machine Learning 
+      4.1 [Code](7_MachineLearning_Code)<br>
+      4.2 [Report](7_MachineLearning_Report)
+5. Final Report and Presentation
+      6.1 [Final Report](8_Final_Report)<br>
+      6.2 [Presentation](8_Final_Presentation)
 
 ## Overview
 Created a model with an AUC score of 0.93 that predicts whether a drug review will have a good rating solely from the review text.
