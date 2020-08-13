@@ -14,10 +14,8 @@
       4.1 [Code](7_MachineLearning_Code)<br>
       4.2 [Report](7_MachineLearning_Report)
 5. Final Report and Presentation<br>
-      6.1 [Final Report](8_Final_Report)<br>
-      6.2 [Presentation](8_Final_Presentation)
+      5.1 [Final Report](8_Final_Report)<br>
+      5.2 [Presentation](8_Final_Presentation)
 
 ## Overview
-Created a model with an AUC score of 0.93 that predicts whether a drug review will have a good rating solely from the review text.
-
-Drug reviews provide important information to drug manufacturers, such as levels of customer satisfaction, successful outcomes, or negative side effects. Several websites exist with drug reviews that could potentially be scraped and used for analysis or product research. However, the rating scales and information required often differ from site to site. Being able to predict whether or not a rating would be good based on the review text allows us to label reviews with missing ratings, standardize ratings across review sources, and better understand the factors that most influence a drug’s rating.
+Drug reviews provide important information to drug manufacturers, such as levels of customer satisfaction, successful outcomes, or negative side effects. Several websites exist with drug reviews that could used for analysis or product research. However, the rating scales and information required often differ from site to site. Being able to predict good or bad ratings based on the review text could help to standardize ratings across review sites. Analyzing what leads to a good review could also improve the understanding of factors that most influence a drug’s rating.
