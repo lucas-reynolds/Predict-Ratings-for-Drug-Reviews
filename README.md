@@ -2,8 +2,8 @@
 ![](drugsCom_modelsROC.png)
 ## Table of Contents
 1. Data Wrangling
-      1.1 [Code] (3_DataWrangling_Code)
-      1.2 [Report] (3_DataWrangling_Report)
+      1.1 [Code](3_DataWrangling_Code)
+      1.2 [Report](3_DataWrangling_Report)
 3. [Data Wrangling Code](3_DataWrangling_Code)<br>
       3.1. [Report](3_DataWrangling_Report)
 4. [Data Storytelling Code](4_DataStorytelling_Code)<br>
