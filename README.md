@@ -2,7 +2,7 @@
 ![](drugsCom_modelsROC.png)
 ## Table of Contents
 1. Data Wrangling<br>
-      1.1 [Code](3_DataWrangling_Code)<br>
+      1.1 [Code](https://github.com/lucas-reynolds/Predicting-Drug-Review-Ratings-from-Review-Text/blob/master/3_DataWrangling_Code.ipynb)<br>
       1.2 [Report](3_DataWrangling_Report)
 2. Data Storytelling<br>
       2.1 [Code](4_DataStorytelling_Code)<br>
