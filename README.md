@@ -1,8 +1,8 @@
 # Predicting Drug Review Ratings from Review Text
 ![](drugsCom_modelsROC.png)
 ## Table of Contents
-1. Data Wrangling
-      1.1 [Code](3_DataWrangling_Code)
+1. Data Wrangling<br>
+      1.1 [Code](3_DataWrangling_Code)<br>
       1.2 [Report](3_DataWrangling_Report)
 3. [Data Wrangling Code](3_DataWrangling_Code)<br>
       3.1. [Report](3_DataWrangling_Report)
