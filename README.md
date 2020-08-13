@@ -18,4 +18,4 @@
       5.2 [Presentation](https://github.com/lucas-reynolds/Predicting-Drug-Review-Ratings-from-Review-Text/blob/master/8_Final_Presentation.pdf)
 
 ## Overview
-Drug reviews provide important information to drug manufacturers, such as levels of customer satisfaction, successful outcomes, or negative side effects. Several websites exist with drug reviews that could used for analysis or product research. However, the rating scales and information required often differ from site to site. Being able to predict good or bad ratings based on the review text could help to standardize ratings across review sites. Analyzing what leads to a good review could also improve the understanding of factors that most influence a drug’s rating.
+Drug reviews provide important information about customer satisfaction, successful outcomes, or negative side effects. There are several review sites that could be used for analysis or product research, but rating scales and information required often differ across sites. Being able to predict good or bad ratings based on the review text could help to standardize ratings across sites.
